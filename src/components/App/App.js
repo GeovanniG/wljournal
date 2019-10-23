@@ -2,11 +2,13 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import Nav from '../Nav/Nav';
+// import MobileNav from '../Nav/MobileNav';
 import Header from '../Header/Header';
 
 function App() {
   return (
     <div className="App">
+      {/* <MobileNav /> */}
       <Nav />
       <Header />
       <header className="App-header">
