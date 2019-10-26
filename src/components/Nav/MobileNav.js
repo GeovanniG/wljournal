@@ -23,7 +23,7 @@ const useStyles = makeStyles({
     }
   },
   icon: {
-    margin: '1.25rem 1rem'
+    margin: '1.5rem 1rem'
   },
   dropdown: {
     display: 'none'
